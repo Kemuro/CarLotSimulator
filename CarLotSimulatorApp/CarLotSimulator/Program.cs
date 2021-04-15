@@ -52,7 +52,7 @@ namespace CarLotSimulator
 
 
             Console.WriteLine("***LuxDealer Inventory***");
-            
+            Console.WriteLine(CarLot.numberOfCars);
             Console.WriteLine($"c");
             //*************BONUS*************//
 

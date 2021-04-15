@@ -8,8 +8,9 @@ namespace CarLotSimulator
     {
         public CarLot()
         {
-        
+            
         }
+        public static int numberOfCars;
         public List<Car> luxDealer { get; set; } = new List<Car>();
     }
 }
